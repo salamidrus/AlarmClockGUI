@@ -3,5 +3,5 @@ The objective of this project is to implement an alarm clock using Python. Pytho
 
 
 
-Screenshot:
+Screenshot:\
 ![alt text](https://github.com/salamidrus/AlarmClockGUI/blob/master/output.PNG?raw=true)
